@@ -1,5 +1,5 @@
 {
-  "name": "leaves",
+  "name": "BeTheWind",
   "version": "0.0.1",
   "description": "A little game...",
   "main": "index.html",
@@ -11,7 +11,7 @@
     "url": ""
   },
   "keywords": [
-    "leaves, game"
+    "wind, game"
   ],
   "author": "Viktor Uhryn",
   "license": "ISC",
